@@ -10,3 +10,6 @@ I am skilled in:
 
 Tools I use:
 <hr>
+
+[![My Skills](https://skillicons.dev/icons?i=clion,idea,webstorm)](https://skillicons.dev)
+
