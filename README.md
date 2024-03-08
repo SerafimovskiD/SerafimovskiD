@@ -6,4 +6,4 @@ I am a technology enthusiast. He is currently studying at the Faculty of Compute
 I am skilled in:
 <hr>
 
-cpp
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,html,css,java)](https://skillicons.dev)
