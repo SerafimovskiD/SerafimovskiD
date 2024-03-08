@@ -1,2 +1,3 @@
-- Hello, I'm Damjan Serafimovski! 👋 
+Hello, I'm Damjan Serafimovski! 👋 
+<hr>
 
